@@ -3,7 +3,7 @@
 - company: Tata Consultancy Services
   position: PAM Developer
   duration: Apr, 2018 &mdash; Present
-  summary: Handling a team of 4 Network Engineers for the H&M, Sweden PAM Project<br><ul class="resume-item-list"><li>Implemented Privilege Access Management (PAM) & Endpoint Privilege Management (EPM)</li><li>Revamped user access methods & proposed needed PAM & EPM updates</li><li>Researched & prepared implementation path & workflow for Non Prod, UAT, Prod & DR environments</li></ul>
+  summary: Handling a team of 4 Network Engineers for the H&M, Sweden PAM Project. Key responsibilities and activities undertaken include:<br><ul class="resume-item-list"><li>Implemented Privilege Access Management (PAM) & Endpoint Privilege Management (EPM)</li><li>Revamped user access methods & proposed needed PAM & EPM updates</li><li>Researched & prepared implementation path & workflow for Non Prod, UAT, Prod & DR environments</li><li>Responsible for managing and maintaining inventory of users/accounts and servers/assets identified for PAM onboarding</li><li>Installing PAM solutions using obtained licensing & configuring backup, TLS/SSL Protocol, SMTP, Proxy, & other settings during initial setup</li><li>Configuring HA (Active-Active) Setup between Two PAM Admin Nodes</li></ul>
 
 - company: Tata Consultancy Services
   position: Network Engineer
