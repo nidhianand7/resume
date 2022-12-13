@@ -1,6 +1,6 @@
 # Site settings
-title: "Cyber Security Analyst - Nidhi"
-description: "Cyber Security Analyst"
+title: "Senior Engineer - Cyber Security - Nidhi"
+description: "Senior Engineer - Cyber Security"
 
 # Build settings
 markdown: kramdown
@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "false"
 resume_name:                    "Nidhi Anand"
-resume_title:                   "Cyber Security Analyst"
+resume_title:                   "Senior Engineer - Cyber Security"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "nidhianand7@gmail.com"
